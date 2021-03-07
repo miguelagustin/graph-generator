@@ -1,0 +1,12 @@
+EVENT,TIME,VALUE
+game_start,120,null
+game_over,0,LOSE
+small_enemy_hit,90.23148,null
+small_enemy_hit,90.23148,null
+big_enemy_hit,72.05687,null
+player_attack,115.1116,null
+player_attack,113.9313,null
+player_attack,112.7094,null
+player_attack,111.4144,null
+player_attack,90.63374,null
+player_attack,72.4577,null

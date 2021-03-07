@@ -1,0 +1,4 @@
+EVENT,TIME,VALUE
+game_start,120,null
+game_over,62.95068,LOSE
+player_killed,62.95068,null

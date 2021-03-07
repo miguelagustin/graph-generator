@@ -1,0 +1,6 @@
+EVENT,TIME,VALUE
+game_start,120,null
+game_over,84.69585,LOSE
+player_killed,84.69585,null
+small_enemy_hit,93.76365,null
+player_attack,94.18623,null
